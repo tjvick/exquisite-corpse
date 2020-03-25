@@ -1,7 +1,7 @@
-#Exquisite Corpse
+# Exquisite Corpse
 
 ## TODO
-Create React App
+~~Create React App~~
 
 Deploy to Netlify
 
