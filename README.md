@@ -3,15 +3,17 @@
 ## TODO
 ~~Create React App~~
 
-Deploy to Netlify
+~~Deploy to Netlify~~
 
-npm install faunadb
+~~Set up FaunaDB Account~~
 
-Set up FaunaDB Account
+~~npm install faunadb~~
+
+Create db bootstrap script
 
 Data Modeling
 
-Create db bootstrap script
+Modify bootstrap script
 
 Setup lambda functions
 
