@@ -1,6 +1,8 @@
-require('dotenv').config();
+import dotenv from 'dotenv';
 import faunadb from 'faunadb';
 import fdbConfig from './../../config/faunadb';
+
+dotenv.config();
 
 const q = faunadb.query;
 const client = new faunadb.Client({
