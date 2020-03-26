@@ -9,24 +9,24 @@
 
 ~~npm install faunadb~~
 
-Create db bootstrap script
+~~Create db bootstrap script~~
 
-Data Modeling
+~~Data Modeling & FaunaDB learning~~
 
-Modify bootstrap script
+~~Modify bootstrap script~~
 
-Setup lambda functions
+~~Setup lambda function build & deploy~~
 
-Setup start:app, etc. scripts
+~~Setup start:app, etc. scripts~~
 
 Add literally canvas to page
 
-Save image to db
+Save image to db button & function
 
 Render image from db
 
-Start game function
+Start game
 
-Join game function
+Join game
 
 Game flow & UI
